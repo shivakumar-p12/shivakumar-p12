@@ -1,5 +1,27 @@
 # 💫 About Me:
-👋 Hey, I'm Shivakumar<br><br>I'm a Senior Software Developer with 9+ years of experience designing and developing scalable cloud applications.<br><br>I love working on backend systems, DevOps automation, and distributed architectures. Much of my work revolves around Node.js, SAP technologies, Kubernetes, and CI/CD pipelines. I’m particularly interested in building tools that improve developer productivity.<br><br>⚡ Core Skills<br>Node.js • JavaScript • Python • SAP HANA Cloud • SAP BTP • Docker • Kubernetes • Jenkins • GitHub Actions<br><br>🧩 Things I Enjoy Building<br><br>Automation & DevOps pipelines<br><br>Distributed & real-time systems<br><br>VS Code / Chrome extensions<br><br>Cloud-native applications<br><br>🎯 Interests<br>Performance optimization • System design • Developer tooling • Cloud engineering<br><br>If you'd like, I can also:<br><br>✅ Add emojis / remove emojis<br>✅ Make it more formal<br>
+👋 Hey, I'm Shivakumar
+
+💼 Senior Software Developer with 9+ years of experience designing and building scalable cloud applications.
+
+I enjoy working on backend systems, DevOps automation, and distributed architectures. Most of my work revolves around Node.js, SAP technologies, Kubernetes, and CI/CD pipelines.
+
+🚀 I’m particularly passionate about building tools and solutions that improve developer productivity and system performance.
+
+⚡ Core Skills
+Node.js • JavaScript • Python • SAP HANA Cloud • SAP BTP • Docker • Kubernetes • Jenkins • GitHub Actions
+
+🧩 Things I Enjoy Building
+
+⚙️ Automation & DevOps pipelines
+
+🔄 Distributed & real-time systems
+
+🧩 VS Code / Chrome extensions
+
+☁️ Cloud-native applications
+
+🎯 Interests
+Performance optimization • System design • Developer tooling • Cloud engineering
 
 
 ## 🌐 Socials:
